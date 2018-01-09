@@ -9,7 +9,7 @@ This repository contains a core set of matlab functions used to align **.mwk** f
 ---
 getmworksinfo.m : a function that uses mworks matlab tools (installed with software) to extract information from mworks **.mwk** files  
 
-mworks2nevconversion.m: a function that uses mowrks matlab tools, the blackrock microsystems [NPMK](https://github.com/BlackrockMicrosystems/NPMK/tree/master/NPMK) package and getmworksinfo.m to derive a scaling factor that can align times extracted from **.mwk** files to times recorded in **.nev** files.
+mworks2nevconversion.m: a function that uses mworks matlab tools, the blackrock microsystems [NPMK](https://github.com/BlackrockMicrosystems/NPMK/tree/master/NPMK) package and getmworksinfo.m to derive a scaling factor that can align times extracted from **.mwk** files to times recorded in **.nev** files.
 
 **License**
 ---
